@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>boolean.txt</file>
+        <file>float.txt</file>
+    </qresource>
+</RCC>
